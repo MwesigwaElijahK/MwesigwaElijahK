@@ -17,7 +17,7 @@ Hi there👋, I'm Elijah!
 [<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="30">](https://www.javascript.com/)
 [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="30">](https://www.github.com/)
 [<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="30">](https://html.com/)
-[<img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" height="30">](https://www.w3schools.com/css/css_intro.asp)
+[<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png)" height="30">](https://www.w3schools.com/css/css_intro.asp)
 [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30">](https://www.figma.com/)
 [<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png)" height="30">](https://www.dart.dev/)
 
