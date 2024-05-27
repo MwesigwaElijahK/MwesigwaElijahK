@@ -12,14 +12,15 @@ Hi there👋, I'm Elijah!
 
 
 ## 🛠️ Tools and Technologies
-[<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" height="20">](#)
-[<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="20">](#)
-[<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="20">](#)
-[<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="20">](#)
-[<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="20">](#)
-[<img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" height="20">](#)
-[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="20">](#)
-[<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" height="20">](#)
+[<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" height="30">](#)
+[<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="30">](#)
+[<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="30">](#)
+[<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="30">](#)
+[<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="30">](#)
+[<img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" height="30">](#)
+[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30">](#)
+[<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" height="30">](#)
+
 
 
 ## 📈 GitHub Stats
