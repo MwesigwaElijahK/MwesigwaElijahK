@@ -12,7 +12,7 @@ Hi there👋, I'm Elijah!
 
 
 ## 🛠️ Tools and Technologies
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](#)
