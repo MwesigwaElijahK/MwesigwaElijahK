@@ -1,7 +1,7 @@
 // Booting up... Hello, Human! 🤖,<br> 
 Hi there👋, I'm Elijah!
 
-
+ 
 ## 🚀 Not so much for the About-Me
 - 🔭 
 - 🌱 The goal is to improve daily, being better than yesterday.
