@@ -19,8 +19,8 @@ Hi there👋, I'm Elijah!
 
 ## 📈 GitHub History
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MwesigwaElijahK&show_icons=true&theme=radical" alt="Elijah's GitHub stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwesigwaElijahK&layout=compact&theme=radical" alt="Top Languages"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MwesigwaElijahK&show_icons=true&theme=radical" alt="Elijah's GitHub stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwesigwaElijahK&layout=compact&theme=radical" alt="Top Languages" height="195"/>
 </p>
 
 
