@@ -23,3 +23,5 @@ Hi there👋, I'm Elijah!
 
 ## 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MwesigwaElijahK&layout=compact&theme=radical)
+
+![Snake animation](https://github.com/MwesigwaElijahK/MwesigwaElijahK/blob/output/github-contribution-grid-snake.svg)
