@@ -12,7 +12,7 @@ Hi there👋, I'm Elijah!
 
 
 ## 🛠️ Tools and Technologies
-[<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" height="30">](https://www.python.org/)
+[<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/python-programming-language-icon.svg)" height="30">](https://www.python.org/)
 [<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="30">](https://flutter.dev/)
 [<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="30">](https://www.javascript.com/)
 [<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-icon.svg)" height="30">](https://www.github.com/)
