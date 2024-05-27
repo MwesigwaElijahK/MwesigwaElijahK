@@ -12,14 +12,14 @@ Hi there👋, I'm Elijah!
 
 
 ## 🛠️ Tools and Technologies
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](#)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)](#)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat)](#)
+[<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" height="20">](#)
+[<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="20">](#)
+[<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="20">](#)
+[<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="20">](#)
+[<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="20">](#)
+[<img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" height="20">](#)
+[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="20">](#)
+[<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" height="20">](#)
 
 
 ## 📈 GitHub Stats
