@@ -15,7 +15,7 @@ Hi there👋, I'm Elijah!
 [<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/python-programming-language-icon.svg)" height="30">](https://www.python.org/)
 [<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="30">](https://flutter.dev/)
 [<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="30">](https://www.javascript.com/)
-[<img src="https://brandeps.com/logo-download/G/GitHub-Icon-logo-vector-01.svg" height="30">](https://www.github.com/) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg)" height="30">](https://www.github.com/) 
 [<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="30">](https://html.com/)
 [<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png)" height="30">](https://www.w3schools.com/css/css_intro.asp)
 [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30">](https://www.figma.com/)
