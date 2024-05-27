@@ -1,4 +1,5 @@
-// Booting up... Hello, Human! 🤖, Hi there👋, I'm Elijah!
+// Booting up... Hello, Human! 🤖, 
+Hi there👋, I'm Elijah!
 
 ## 🚀 Not so much for the About-Me
 - 🔭 
@@ -12,9 +13,9 @@
 
 
 ## 🛠️ Tools and Technologies
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)\n
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)\n
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)\n
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)<br>
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)<br>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ## 📈 GitHub Stats
