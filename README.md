@@ -26,7 +26,11 @@ Hi there👋, I'm Elijah!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwesigwaElijahK&layout=compact&theme=radical" alt="Top Languages" style="height: 200px; margin: 10px;"/>
 </div>
 
-## ↗️ Github Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codemaker2015&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+##↗️ Github Streak
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=codemaker2015&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  </a>
+</p>
 
 
