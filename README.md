@@ -19,9 +19,6 @@ Hi there👋, I'm Elijah!
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ## 📈 GitHub Stats
-![Elijah's GitHub stats](https://github-readme-stats.vercel.app/api?username=MwesigwaElijahK&show_icons=true&theme=radical)
-
-## 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MwesigwaElijahK&layout=compact&theme=radical)
+![Elijah's GitHub stats](https://github-readme-stats.vercel.app/api?username=MwesigwaElijahK&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MwesigwaElijahK&layout=compact&theme=radical)
 
 ![Snake animation](https://github.com/MwesigwaElijahK/MwesigwaElijahK/blob/output/github-contribution-grid-snake.svg)
