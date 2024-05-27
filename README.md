@@ -1,7 +1,7 @@
 // Booting up... Hello, Human! 🤖,<br> 
 Hi there👋, I'm Elijah!
 
-<img src="URL_TO_YOUR_IMAGE" width="VALUE" height="VALUE" alt="ALTERNATIVE_TEXT" />
+![Vishnu Sivan](codemaker.png)
 
 ## 🚀 Not so much for the About-Me
 - 🔭 
