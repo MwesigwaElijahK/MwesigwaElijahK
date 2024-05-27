@@ -2,7 +2,7 @@
 Hi there👋, I'm Elijah!
 
 ## 🚀 Not so much for the About-Me
-- 🔭 T
+- 🔭 
 - 🌱 The goal is to improve daily, being better than yesterday.
 - 💬 Ask me about tech, code, UI/UX, and don't forget the pythons.
 - 😄 Pronouns: He/Him
@@ -24,6 +24,3 @@ Hi there👋, I'm Elijah!
 </div>
 
 
-
-
-![Snake animation](https://github.com/MwesigwaElijahK/MwesigwaElijahK/blob/output/github-contribution-grid-snake.svg)
