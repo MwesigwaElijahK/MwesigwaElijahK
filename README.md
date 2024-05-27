@@ -17,7 +17,7 @@ Hi there👋, I'm Elijah!
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)<br>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
-## 📈 GitHub Stats
+## 📈 GitHub History
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MwesigwaElijahK&show_icons=true&theme=radical" alt="Elijah's GitHub stats"  height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwesigwaElijahK&layout=compact&theme=radical" alt="Top Languages"  height="200" />
