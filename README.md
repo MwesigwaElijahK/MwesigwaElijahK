@@ -12,14 +12,15 @@ Hi there👋, I'm Elijah!
 
 
 ## 🛠️ Tools and Technologies
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](#)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)](#)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat)](#)
+
 
 ## 📈 GitHub Stats
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
