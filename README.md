@@ -1,4 +1,4 @@
-// Booting up... Hello, Human! 🤖, 
+// Booting up... Hello, Human! 🤖,<br> 
 Hi there👋, I'm Elijah!
 
 ## 🚀 Not so much for the About-Me
