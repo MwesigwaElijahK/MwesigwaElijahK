@@ -1,14 +1,13 @@
-// Booting up... Hello, Human! 🤖,<br> 
+// Booting up... Hello, Human! 🤖,<br>
    Hi there👋
 
- ## 🚀 Not so much for the About-Me
+## 🚀 Not so much for the About-Me
 - 🔭 I'm currently working on something under-CANVA
 - 🌱 Better than yesterday.
 - 💬 Ask me about tech, code, UI/UX, and don't forget the pythons.
 - ⚡ Fun fact: I wouldn't say I like bugs but I flutter with pythons.
 - 👨‍💻 Developer by day, ⚽ football & F1 anytime.
 - 🌍 Based on earth
-
 
 ## 🛠️ Tools and Technologies
 [<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/python-programming-language-icon.svg" height="30">](https://www.python.org/)
@@ -22,11 +21,6 @@
 [<img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height="30">](https://www.canva.com/)
 [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30">](https://firebase.google.com/)
 
-
-
-
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MwesigwaElijahK&layout=compact&theme=radical)<br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codemaker2015&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)
-
-
