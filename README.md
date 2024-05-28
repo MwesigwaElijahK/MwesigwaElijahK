@@ -22,7 +22,7 @@
 [<img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height="30">](https://www.canva.com/)
 [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30">](https://firebase.google.com/)
 
----
+<br>
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=codemaker2015&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)
