@@ -25,4 +25,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MwesigwaElijahK&layout=compact&theme=radical)<br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codemaker2015&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)
 
-![snake gif](https://github.com/MwesigwaElijahK/MwesigwaElijahK/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MwesigwaElijahK/MwesigwaElijahK/blob/output/snake.svg)
