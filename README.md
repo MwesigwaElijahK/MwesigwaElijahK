@@ -3,8 +3,8 @@ Hi there👋, I'm Elijah!
 
  
 ## 🚀 Not so much for the About-Me
-- 🔭 I'm currently doing my best really.
-- 🌱 The goal is to improve daily, being better than yesterday.
+- 🔭 I'm currently working on something under-CANVA
+- 🌱 Better than yesterday.
 - 💬 Ask me about tech, code, UI/UX, and don't forget the pythons.
 - ⚡ Fun fact: I wouldn't say I like bugs but I flutter with pythons.
 - 👨‍💻 Developer by day, ⚽ football & F1 anytime.
