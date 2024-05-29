@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=460&height=100&lines=%2F%2F+Booting+up...+Please+wait%F0%9F%94%83;Oh%2C+Human!+%F0%9F%A4%96;Howdy%F0%9F%91%8B)](https://git.io/typing-svg)
 
+<br>
 
 ## 🚀 Not so much for the About-Me
 - 🔭 I'm currently working on something under-CANVA
@@ -31,7 +32,3 @@
 
 ## 📈 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=MwesigwaElijahK&theme=ads-juicy-fresh&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MwesigwaElijahK)](https://github.com/anuraghazra/github-readme-stats)
-
-
