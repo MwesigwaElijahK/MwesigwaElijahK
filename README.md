@@ -30,8 +30,7 @@
 
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MwesigwaElijahK&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MwesigwaElijahK&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MwesigwaElijahK)](https://git.io/streak-stats)
 
 
 
