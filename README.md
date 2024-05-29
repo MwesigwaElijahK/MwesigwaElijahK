@@ -30,7 +30,7 @@
 
 
 ## 📈 GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MwesigwaElijahK&layout=compact&theme=radical&card_width=300&card_height=200)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MwesigwaElijahK&layout=compact&theme=radical)
 
 
 
