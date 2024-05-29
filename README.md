@@ -1,5 +1,5 @@
-// Booting up... Hello, Human! 🤖,<br>
-   Hi there👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=440&height=70&lines=%2F%2F+Booting+up...+Hello%2C+Human!+%F0%9F%A4%96%2C;Howdy%F0%9F%91%8B)](https://git.io/typing-svg)
+
 
 ## 🚀 Not so much for the About-Me
 - 🔭 I'm currently working on something under-CANVA
