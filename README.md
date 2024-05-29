@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=440&height=70&lines=%2F%2F+Booting+up...+Hello%2C+Human!+%F0%9F%A4%96%2C;Howdy%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=460&height=100&lines=%2F%2F+Booting+up...+Please+wait%F0%9F%94%83;Oh%2C+Human!+%F0%9F%A4%96;Howdy%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
 ## 🚀 Not so much for the About-Me
