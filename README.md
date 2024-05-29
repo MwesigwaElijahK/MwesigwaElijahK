@@ -30,7 +30,7 @@
 
 
 ## 📈 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MwesigwaElijahK)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MwesigwaElijahK&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
 
 
